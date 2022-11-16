@@ -1,0 +1,40 @@
+body{
+	margin: 100;
+	min-height: 100vh;
+	font-family: 'Jost', sans-serif;
+	background: #F5F5F5;
+}
+
+form {
+    margin:10px; 
+    padding: 0 5px;
+    background: #F5F5F5;  
+  }
+  label {
+    display:block;
+    font-weight:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin:5px 0;
+  }
+  input {
+    padding:2px;
+    border:1px solid #eee;
+    font: Georgia, 'Times New Roman', Times, serif;
+    color:#777;
+  }
+  textarea {
+    width:400px;
+    padding:2px;
+    font: Georgia, 'Times New Roman', Times, serif;
+    border:1px solid #eee;
+    height:100px;
+    display:block;
+    color:#777;
+  }
+
+.navbar-nav > li > a {
+    color: #492a1a;
+    }
+.navbar-nav > li > a:hover,.navbar-inverse .navbar-nav > li > a:focus {
+    color: #492a1a;
+    }
